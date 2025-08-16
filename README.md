@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Zezhi Shao (邵泽志)
 
-## 🧑‍🔬 About Me
-
 I am an Assistant Professor at the Institute of Computing Technology, CAS, affiliated with the Research Center for Intelligent Equipment Systems and the State Key Laboratory of AI Safety. My research focuses on **time series analysis**, **spatial-temporal data mining**, and **AI4Science**, with a strong interest in advancing both theory and practical applications.
 
 [Homepage](https://zezhishao.github.io) | [Google Scholar](https://scholar.google.com/citations?user=-9_KI-wAAAAJ&hl=zh-CN)
