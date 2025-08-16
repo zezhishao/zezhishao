@@ -4,7 +4,8 @@ I am an Assistant Professor at the Institute of Computing Technology, CAS, affil
 
 [Homepage](https://zezhishao.github.io) | [Google Scholar](https://scholar.google.com/citations?user=-9_KI-wAAAAJ&hl=zh-CN)
 
-📍 Beijing, China
+<!-- 📍 Beijing, China
+
 
 ## 📈 Selected Research Highlights
 
@@ -39,3 +40,5 @@ If you are interested, please feel free to reach out!
 **Contact:**  
 
 - shaozezhi@ict.ac.cn
+
+ -->
