@@ -1,20 +1,12 @@
 # 👋 Hi, I'm Zezhi Shao (邵泽志)
 
-**Assistant Professor**   
-Institute of Computing Technology, Chinese Academy of Sciences (CAS)   
-Research Center for Intelligent Equipment Systems &
-State Key Laboratory of AI Safety   
-📍 Beijing, China
-
-[Homepage](https://zezhishao.github.io) | [Google Scholar](https://scholar.google.com/citations?user=-9_KI-wAAAAJ&hl=zh-CN)
-
----
-
 ## 🧑‍🔬 About Me
 
 I am an Assistant Professor at the Institute of Computing Technology, CAS, affiliated with the Research Center for Intelligent Equipment Systems and the State Key Laboratory of AI Safety. My research focuses on **time series analysis**, **spatial-temporal data mining**, and **AI4Science**, with a strong interest in advancing both theory and practical applications.
 
----
+[Homepage](https://zezhishao.github.io) | [Google Scholar](https://scholar.google.com/citations?user=-9_KI-wAAAAJ&hl=zh-CN)
+
+📍 Beijing, China
 
 ## 📈 Selected Research Highlights
 
@@ -33,15 +25,11 @@ I am an Assistant Professor at the Institute of Computing Technology, CAS, affil
 * **BLAST: Balanced Sampling Time Series Corpus for Universal Forecasting Models**, *SIGKDD 2025*.   
   [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=-9_KI-wAAAAJ&cstart=20&pagesize=80&citation_for_view=-9_KI-wAAAAJ:ZqE1mSdD_DYC) | [GitHub](https://github.com/GestaltCogTeam/BLAST) | [知乎](https://zhuanlan.zhihu.com/p/1932120593307799686)
 
----
-
 ## 💻 Open Source & Projects
 
 * Strong advocate for open-source software.
 * [**BasicTS**](https://github.com/zezhishao/BasicTS): A fair and scalable benchmark and toolkit for time series forecasting.
 * [**DailyArXiv**](https://github.com/zezhishao/DailyArXiv): Automatically fetches the latest arXiv papers based on your keywords and delivers them via email.
-
----
 
 ## 🤝 Join My Research
 
